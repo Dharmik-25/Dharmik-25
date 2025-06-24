@@ -7,9 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/dpthunder10" target="blank"><img src="https://img.shields.io/twitter/follow/dpthunder10?logo=twitter&style=for-the-badge" alt="dpthunder10" /></a> </p>
 
-- 🔭 I’m currently working on **network_scanner app**
 
-- 🌱 I’m currently learning **Blockchain , Flutter**
+- 🌱 I’m currently pursuing B.Tech in Cybersecurity 
 
 - 📫 How to reach me **dharmikpandya25@gmail.com**
 
